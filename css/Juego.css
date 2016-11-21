@@ -1,0 +1,28 @@
+body #Juego{
+	position:relative;
+  	width:600px;
+	height:600px;
+	margin: auto;
+}
+.pieza{
+  position:absolute;
+  background-position:center;
+  width:200px;
+  height:200px;
+}
+/*cronometro*/
+
+*{
+	padding: 0;
+}
+#contenedor{
+	margin: 10px auto;
+	width: 540px;
+	height: 115px;
+}
+.reloj{
+	float: left;
+	font-size: 80px;
+	font-family: Courier,sans-serif;
+	color: #363431;
+}

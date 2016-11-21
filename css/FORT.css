@@ -1,0 +1,96 @@
+body{
+	background-image: url("../images/FORT/fondo.JPG");
+	width: 1024px;
+	margin: auto;
+}
+h1{
+	font-family: 'Bree Serif', serif;
+	font-size: 40px;
+	text-align: center;
+	background-color: gray;
+	padding-bottom: 7px;
+}
+#izquierda{
+	background-color: gray;
+	width: 300px;
+	height: 620px;
+	float:left;
+	margin-left: 3%;
+}
+p{
+	font-family: 'Bree Serif', serif;
+	font-size: 20px;
+	text-align: center;
+	margin-left: 10px;
+	margin-right: 10px;
+}
+.img{
+	background-image: url("../images/FORT/Comandante.JPEG");
+	width: 290px;
+    height: 290px;
+    background-size: 290px 290px;
+    margin: auto;
+}
+body #Juego{
+	position:relative;
+  	width:600px;
+	height:600px;
+	margin: auto;
+}
+body div.fondoJ{
+	width: 620px;
+	height: 600px;
+	padding: 10px 10px 10px 10px;
+	background-color: gray;
+	margin-left: 3%;
+	margin-bottom: 30px;
+	float: left;
+}
+.pieza{
+  position:absolute;
+  background-position:center;
+  width:200px;
+  height:200px;
+}
+/*cronometro*/
+
+*{
+	padding: 0;
+}
+#conts{
+	background-color: gray;
+    height: 127px;
+    width: 300px;
+    float: left;
+    margin-left: 3%;
+}
+p#movement{
+	padding-top: 10px;
+	font-size: 30px;
+}
+#contenedor{
+	margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 100px;
+    width: 300px;
+    height: 85px;
+    background-color: gray;
+}
+.reloj{
+	float: left;
+	font-size: 80px;
+	margin-left: 18px;
+	margin-right: 10px;
+}
+div.fondoC{
+	width: 640px;
+    height: 110px;
+    margin-top: 678px;
+    margin-left: 35%;
+    background-color: gray;
+    padding-top: 17px;
+}
+video{
+	margin-left: auto;
+	margin-right: auto;
+}

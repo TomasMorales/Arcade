@@ -1,0 +1,78 @@
+body{
+	background-color: black;
+	width: 765px;
+	margin: auto;
+}
+body div p{
+	text-align: center;
+	text-decoration-style: bold;
+    color: whitesmoke;
+    font-size: 25px;
+    font-family: 'Bree Serif', serif;
+}
+body p strong:first-child{
+	color:#3060B3;
+}
+body p strong:last-Child{
+	color:#DF2114;
+}
+body div.fondo1{
+	background-image: url("../images/Morfeo/fondoI.JPEG");
+	height: 129px;
+	width: 310px;
+	background-repeat: no-repeat;
+	background-position: center;
+	float: left;
+}
+body div.pelada{
+	background-image: url("../images/Morfeo/pelada.JPEG");
+	height: 129px;
+	width: 142px;
+	background-repeat: no-repeat;
+	background-position: center;
+	float: left;
+}
+body div.fondo2{
+	background-image: url("../images/Morfeo/fondoD.JPEG");
+	height: 129px;
+	width: 313px;
+	background-repeat: no-repeat;
+	background-position: center;
+	float: left;
+}
+body div.Watchmen2{
+	background-image: url("../images/Morfeo/Watchmen2.JPEG");
+	height: 267px;
+	background-repeat: no-repeat;
+	background-position: center;
+	margin-top: 154px;
+}
+body div.Rojo{
+	background-image: url("../images/Morfeo/Rojo.JPEG");
+	background-repeat: no-repeat;
+	width: 265px;
+	height: 145px;
+	float: left;
+}
+body div.Medio{
+	background-image: url("../images/Morfeo/medio.JPEG");
+	background-repeat: no-repeat;
+	width: 241px;
+	height: 145px;
+	float: left;
+	
+}
+body div.Azul{
+	background-image: url("../images/Morfeo/Azul.JPEG");
+	background-repeat: no-repeat;
+	width: 259px;
+	height: 145px;
+	float: right;
+}
+body div.Resto{
+	background-image: url("../images/Morfeo/piernas.JPEG");
+	background-repeat: no-repeat;
+	height: 346px;
+	background-position: center;
+	margin-top: 145px;
+}
